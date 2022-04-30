@@ -38,6 +38,9 @@
                     </div>
                 </div>
             </div>
+            <div class="row">
+                <button type="button" class="btn btn-light">Rellenar tanques</button>
+            </div>
             <div class="row container-fluid">
                 <h3 class="text-white text-center pt-1">Ventas</h3>
                 <table class="table table-dark">
