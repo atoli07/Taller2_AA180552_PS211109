@@ -1,0 +1,14 @@
+div#tanques{
+    background-color: #13678A;
+}
+
+div#mantenimientos{
+    background-color: #1a779f;
+}
+
+div.tanque{
+    margin: auto;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 200px;
+}
