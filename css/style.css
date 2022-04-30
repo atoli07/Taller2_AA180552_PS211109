@@ -6,7 +6,7 @@ div#mantenimientos{
     background-color: #1a779f;
 }
 
-div.tanque{
+div.tanque, form.frm-mantenimientos{
     margin: auto;
     background-color: #fff;
     border-radius: 10px;
