@@ -1,14 +1,18 @@
-div#tanques{
-    background-color: #13678A;
+body{
+    background: linear-gradient(to bottom, #13678A, #1a779f);
 }
 
-div#mantenimientos{
-    background-color: #1a779f;
-}
-
-div.tanque, form.frm-mantenimientos{
+div.tanque{
     margin: auto;
     background-color: #fff;
     border-radius: 10px;
     height: 200px;
+}
+
+form.frm-mantenimientos{
+    margin: auto;
+    width: 65%;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 300px;
 }
