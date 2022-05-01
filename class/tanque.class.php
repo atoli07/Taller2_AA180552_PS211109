@@ -12,14 +12,14 @@ class tanque{
         $this->cantidad=$cantidad;
     }
 
-    public function rellenarTanque()
+    public function rellenarTanques()
     {
-        $this->cantidad=100;
+        return "true";
     }
 
-    public function despachoTanque($tanque)
+    public function despachoTanque($tanque, $can_restar)
     {
-        
+        return $tanque->cantidad=$tanque->cantidad-$can_restar;
     }
 }
 ?>
